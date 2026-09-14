@@ -1,6 +1,6 @@
 - (Xena MC): __wss://playfrogiee1.net/eagles/__
 
-- (Xena MC): __wss://xena.wtf__
+- (Xena MC): __wss://xena.wtf__ 🟩
 
 - (Xena MC): __wss://xenamc.com__
 
@@ -8,11 +8,11 @@
 
 - (FKAS MC): __wss://fkas.online__
 
-- (Vanilla MC): __wss://vanillamc.me__
+- (Vanilla MC): __wss://vanillamc.me__ 🟩
 
 - (Elysium Network): __wss://web.elysiumnet.xyz__
 
-- (Pizza SMP): __wss://pizzasmp.qzz.io__
+- (Pizza SMP): __wss://pizzasmp.qzz.io__ 🟩
 
 - (TuffNET): __wss://tuffest.org__  
 
