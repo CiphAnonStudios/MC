@@ -1,79 +1,111 @@
-🟩 = Favorite
 🟢 Master Eaglercraft Server List
-Your original servers
-Xena MC — wss://playfrogiee1.net/eagles/
-Xena MC — wss://xena.wtf 🟩
-Xena MC — wss://xenamc.com
-Xena MC — wss://eagler.frogiee.one
-FKAS MC — wss://fkas.online
-Vanilla MC — wss://vanillamc.me 🟩
-Elysium Network — wss://web.elysiumnet.xyz
-Pizza SMP — wss://pizzasmp.qzz.io 🟩
-TuffNET — wss://tuffest.org
-Zentic — wss://zentic.cc
-GalacticPVP — wss://galacticpvp.eagler.host
-ArchMC — wss://arch.mc
-SME MC — wss://play.sme-mc.us
-⭐ More servers
-Voidsent MC — wss://mc.voidsent.net
-Pixel Craft — wss://pcsmp.net
-MercuryMC — wss://mercurymc.net
-Dumbshit Survival X — wss://mc.dssx.us
-ZythMC — wss://mc.zyth.me
-ShadowflareSMP — wss://shadowflare.pages.dev
-Cburger — wss://play.cburger.net
-Bedwetter — wss://bedwetr.bytommy.uk
-VirexLifesteal — wss://eagler.virexlifesteal.com
-CrickCraft — wss://CrickCraft.eagler.host
-Clever-Teaching — wss://clever-teaching.com
-Nulls World — wss://nullsworld.net
-2b2tnet — wss://2b2tnet.eagler.host
-UltraPeaks Network — wss://eagler.ultrapeaks.net
-St John's High School — wss://maui.eagler.host
-Kinishere — wss://kinishere.eagler.host
-Hyper Network — wss://eag.hyper-network.net
-WanderwoodSMP — wss://wanderwoodsmp.com
-Shadow Network — wss://play.shadownetwork.shop
-Lamp Network — wss://mc.lamplifesteal.xyz
-Encrypted SMP — wss://eagler.melonnetwork.xyz
-HeartSMP — wss://play.heartsmp.net
-GS GG SMP — wss://ggsmp.net
-Aeon Network — wss://aeon-network.net
-Ethereal — wss://ethereal.mov
-CraftPublic — wss://eagler.qilk.de
-Radiant Network — wss://eagler.radiantnet.club
-MaceSMP — wss://strengthnetwork.org
-DylanMC — wss://play.monacoeducation.info
-Rice Network x BallCraft — wss://mc.ricenetwork.xyz
-DuckCraft — wss://pvp.duckcraft.top
-3B3T — wss://debug-winxpserver.loophole.site/
-RagePvP Network — wss://ragepvp.us
-BladeMC — wss://blademc.us
-HexoSMP — wss://play.hexosmp.net
-AdderallMC — wss://adderall.ir
-Amethyst MC — wss://play.theamethystmc.com
-MythoriaSMP — wss://eag.mythoriasmp.tech
-Fox SMP — wss://foxsmp.eagler.host
-prcshoolSMP — wss://prc-schoolSMP.eagler.host
-Shadow Network — wss://shadownetwork.eagler.host
-RiotMC — wss://play.riotmc.org
-Ducky MC — wss://eagler.duckymc.xyz
-Unreal SMP — wss://play.unrealsmp.org
-Kryplex Network — wss://kryplex-network.eagler.host
-OutlawMC — wss://outlawMC.eagler.host
-IceBlade-SMP — wss://iceblade-smp.eagler.host
-NovelSMP — wss://novelsmp.eagler.host
-Nomad Anarchy — wss://play.nomadanarchy.online
-ChillSurvival — wss://chillsurvival.eagler.host
-CastleSMP — wss://castlesmp.eagler.host
-CokeSMP — wss://cokesmp.eagler.host
-Bedheck — wss://bedheck.eagler.host
-CarrotCraft — wss://eagler.carrot-craft.org
-WebMC — wss://play.webmc.fun
-Rice Network — wss://mc.ricenetwork.xyz
-KrypticMC — wss://krypticmc.net
-SPMC — wss://spmc.eagler.host
-VantaMC — wss://play.vantamc.com
-Ecomc — wss://ecomc.eagler.host
-2P1T — wss://eagler.2p1t.com
-The Stable SMP — wss://thestablesmp.eagler.host
+
+«🟩 Favorite — Servers marked with 🟩 are my favorites.»
+
+🦋 My Servers
+
+#| Server| Address
+1| Xena MC| "wss://playfrogiee1.net/eagles/"
+2| Xena MC 🟩| "wss://xena.wtf"
+3| Xena MC| "wss://xenamc.com"
+4| Xena MC| "wss://eagler.frogiee.one"
+5| FKAS MC| "wss://fkas.online"
+6| Vanilla MC 🟩| "wss://vanillamc.me"
+7| Elysium Network| "wss://web.elysiumnet.xyz"
+8| Pizza SMP 🟩| "wss://pizzasmp.qzz.io"
+9| TuffNET| "wss://tuffest.org"
+10| Zentic| "wss://zentic.cc"
+11| GalacticPVP| "wss://galacticpvp.eagler.host"
+12| ArchMC| "wss://arch.mc"
+13| SME MC| "wss://play.sme-mc.us"
+
+⭐ More Servers
+
+#| Server| Address
+14| Voidsent MC| "wss://mc.voidsent.net"
+15| Pixel Craft| "wss://pcsmp.net"
+16| MercuryMC| "wss://mercurymc.net"
+17| Dumbshit Survival X| "wss://mc.dssx.us"
+18| ZythMC| "wss://mc.zyth.me"
+19| ShadowflareSMP| "wss://shadowflare.pages.dev"
+20| Cburger| "wss://play.cburger.net"
+21| Bedwetter| "wss://bedwetr.bytommy.uk"
+22| VirexLifesteal| "wss://eagler.virexlifesteal.com"
+23| CrickCraft| "wss://CrickCraft.eagler.host"
+24| Clever-Teaching| "wss://clever-teaching.com"
+25| Nulls World| "wss://nullsworld.net"
+26| 2b2tnet| "wss://2b2tnet.eagler.host"
+27| UltraPeaks Network| "wss://eagler.ultrapeaks.net"
+28| St John's High School| "wss://maui.eagler.host"
+29| Kinishere| "wss://kinishere.eagler.host"
+30| Hyper Network| "wss://eag.hyper-network.net"
+31| WanderwoodSMP| "wss://wanderwoodsmp.com"
+32| Shadow Network| "wss://play.shadownetwork.shop"
+33| Lamp Network| "wss://mc.lamplifesteal.xyz"
+34| Encrypted SMP| "wss://eagler.melonnetwork.xyz"
+35| HeartSMP| "wss://play.heartsmp.net"
+36| GS GG SMP| "wss://ggsmp.net"
+37| Aeon Network| "wss://aeon-network.net"
+38| Ethereal| "wss://ethereal.mov"
+39| CraftPublic| "wss://eagler.qilk.de"
+40| Radiant Network| "wss://eagler.radiantnet.club"
+41| MaceSMP| "wss://strengthnetwork.org"
+42| DylanMC| "wss://play.monacoeducation.info"
+43| Rice Network x BallCraft| "wss://mc.ricenetwork.xyz"
+44| DuckCraft| "wss://pvp.duckcraft.top"
+45| 3B3T| "wss://debug-winxpserver.loophole.site/"
+46| RagePvP Network| "wss://ragepvp.us"
+47| BladeMC| "wss://blademc.us"
+48| HexoSMP| "wss://play.hexosmp.net"
+49| AdderallMC| "wss://adderall.ir"
+50| Amethyst MC| "wss://play.theamethystmc.com"
+51| MythoriaSMP| "wss://eag.mythoriasmp.tech"
+52| Fox SMP| "wss://foxsmp.eagler.host"
+53| prcshoolSMP| "wss://prc-schoolSMP.eagler.host"
+54| Shadow Network| "wss://shadownetwork.eagler.host"
+55| RiotMC| "wss://play.riotmc.org"
+56| Ducky MC| "wss://eagler.duckymc.xyz"
+57| Unreal SMP| "wss://play.unrealsmp.org"
+58| Kryplex Network| "wss://kryplex-network.eagler.host"
+59| OutlawMC| "wss://outlawMC.eagler.host"
+60| IceBlade-SMP| "wss://iceblade-smp.eagler.host"
+61| NovelSMP| "wss://novelsmp.eagler.host"
+62| Nomad Anarchy| "wss://play.nomadanarchy.online"
+63| ChillSurvival| "wss://chillsurvival.eagler.host"
+64| CastleSMP| "wss://castlesmp.eagler.host"
+65| CokeSMP| "wss://cokesmp.eagler.host"
+66| Bedheck| "wss://bedheck.eagler.host"
+67| CarrotCraft| "wss://eagler.carrot-craft.org"
+68| WebMC| "wss://play.webmc.fun"
+69| Rice Network| "wss://mc.ricenetwork.xyz"
+70| KrypticMC| "wss://krypticmc.net"
+71| SPMC| "wss://spmc.eagler.host"
+72| VantaMC| "wss://play.vantamc.com"
+73| Ecomc| "wss://ecomc.eagler.host"
+74| 2P1T| "wss://eagler.2p1t.com"
+75| The Stable SMP| "wss://thestablesmp.eagler.host"
+
+---
+
+📊 List Stats
+
+- Total servers: 75
+- Favorites: 🟩 3
+- Protocol: WebSocket ("wss://")
+- Game: Eaglercraft / Minecraft Java Edition
+
+🔗 Follow Me
+
+GitHub
+
+"@ItsToonyTime" (https://github.com/ItsToonyTime)
+
+YouTube
+
+"@ItsToonyTime" (https://www.youtube.com/@ItsToonyTime)
+
+---
+
+«⚠️ Note: Server availability and addresses can change. Some servers may be offline or unavailable at certain times.»
+
+⭐ Eaglercraft forever.
